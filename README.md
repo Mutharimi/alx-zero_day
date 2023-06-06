@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 0x03-git
 =======
 Another one for me
@@ -7,3 +8,6 @@ Another one for me
 =======
 Another one
 >>>>>>> f73f2c0261199ecf2c3e356d5d5e6b1cc19302eb
+=======
+Here it is
+>>>>>>> c66050b044e83f79bd9fd4f54b5ce300621a36de
